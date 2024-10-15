@@ -1,5 +1,5 @@
 <p align="center">
-    <!-- need to add the image -->
+    <img src="https://github.com/user-attachments/assets/12486753-a0d8-4761-84a0-c3547838aac8" width=200px/>
 </p>
 
 <h1 align="center"> 0bug </h1>
